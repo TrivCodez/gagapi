@@ -34,7 +34,7 @@ HTML_CONTENT = """
   </style>
 
   <script>
-    const API_BASE = 'http://124.6.63.23:42013';
+    const API_BASE = 'http://';
 
     function slugify(name) {
       return name.toLowerCase().replace(/ /g, '_');
